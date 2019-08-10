@@ -1,4 +1,9 @@
-# Serverless Node.js Starter
+# Notes APP API
+
+Automatic Serverless setup for Notes APP API @[NotesApp.net)(https://www.notesapp.net) (Creates all neccessary AWS Resources and Outputs IDs)
+
+Current API is implemented in [SEED](https://seed.run/)
+
 
 A Serverless starter that adds ES7 syntax, serverless-offline, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
 
